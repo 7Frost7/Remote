@@ -1,2 +1,2 @@
 /// tabs.js
-javascript: while (true){window.open("https://google.com/error")}
+javascript: while (true){window.open("https://portlandpublic.instructure.com/")}
